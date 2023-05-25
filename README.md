@@ -1,6 +1,7 @@
 
-Discord- pa.one#2667
-IG - pa.one55
+Discord -> Pa.One#0906 
+
+
 
 <!---
 pa-one55/pa-one55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
